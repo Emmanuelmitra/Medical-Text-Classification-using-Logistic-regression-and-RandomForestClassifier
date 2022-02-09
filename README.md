@@ -27,11 +27,6 @@ https://colab.research.google.com/drive/1nJQ-wkxd1qaz7ZVjywUV4e2yZEF9DzAN?usp=sh
 ## Contributing
 1.Emmanuel Mitra
 
-2.Panchanand jha
-
-3.Ashpak Shaik 
-
-
 ## Authors
 
 - https://github.com/Emmanuelmitra
